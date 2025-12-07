@@ -33,7 +33,7 @@ That’s it. No coding, no servers, runs 24/7 forever.
 ### Tech stack
 
 - EasyConnect (real-time alerts)  
-- Make.com (automation & webhooks)  
+- Make (automation & webhooks)  
 - Qubic Public API  
 - Google Sheets (dashboard)  
 - OpenAI / Grok (AI summaries)  
