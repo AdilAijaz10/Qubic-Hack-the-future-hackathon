@@ -4,7 +4,6 @@ A super simple, fully automatic Qubic wallet & asset monitor that works the mome
 
 Every time a transaction happens on a wallet you follow, **Qubic Auto-Tracker** instantly updates two Google Sheets with fresh data and friendly AI summaries (powered by OpenAI).
 
-
 ### What you get (2 sheets)
 
 **Sheet 1 – Wallet Activity**  
