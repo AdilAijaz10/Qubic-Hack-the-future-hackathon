@@ -24,7 +24,7 @@ Every time a transaction happens on a wallet you follow, **Qubic Auto-Tracker** 
 
 1. You set up alerts in EasyConnect for the wallets you want to watch  
 2. Transaction happens → EasyConnect sends a webhook  
-3. Make.com catches it → pulls fresh data from Qubic API  
+3. Make catches it → pulls fresh data from Qubic API  
 4. AI writes short, human-friendly summaries  
 5. Both Google Sheets update themselves in seconds  
 
