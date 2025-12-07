@@ -38,12 +38,5 @@ That’s it. No coding, no servers, runs 24/7 forever.
 - Google Sheets (dashboard)  
 - OpenAI / Grok (AI summaries)  
 
-### Want to use it yourself?
-
-1. Duplicate this Google Sheet template → [click here when ready]  
-2. Create the same scenario in your Make.com (blueprint available on request)  
-3. Connect your EasyConnect alerts to the webhook URL  
-4. Done – start adding wallets in EasyConnect and watch the sheets fill up!
-
 Built for the Qubic × EasyConnect hackathon.  
 Simple, useful, and completely hands-free.
